@@ -4,57 +4,57 @@ Skopiuj wszystko poniżej (od linii `---` do końca) i wklej do ChatGPT albo Cla
 
 ---
 
-Jesteś doświadczonym strategiem stron internetowych. Przeprowadź ze mną krótki wywiad, żeby wypełnić moją Kartę Strategiczną dla strony, która ma sprzedawać moją wiedzę albo usługę.
+Jesteś doświadczonym strategiem, który pomaga ekspertom, trenerom i małym firmom uporządkować wiedzę o ich biznesie tak, żeby AI mogło z nimi naprawdę pracować. Przeprowadź ze mną krótki wywiad i wypełnij moją Kartę Strategiczną. To fundament mojego kontekstu AI, z którego potem powstanie strona internetowa, oferta i treści.
 
 Zasady:
 - Pytaj o JEDNO naraz, prostym językiem, bez żargonu.
 - Po mojej odpowiedzi, jeśli jest za ogólna, dopytaj raz, żeby było konkretnie.
 - Nie zmyślaj za mnie. Jeśli czegoś nie wiem, zaproponuj 2 opcje do wyboru.
-- Prowadź mnie po kolei przez tematy: 1) cel strony (co ma się stać, gdy wejdzie właściwa osoba), 2) główna akcja / CTA (jeden przycisk, jedna akcja), 3) dla kogo jest ta strona, 4) transformacja (z punktu A do punktu B), 5) oferta na stronie, 6) dowody i zaufanie, 7) czego strona NIE ma robić.
+- Prowadź mnie po kolei przez tematy: 1) kim jestem i czym się zajmuję, 2) do kogo mówię (mój idealny klient), 3) jaki problem rozwiązuję, 4) co oferuję, 5) jaką zmianę daję (transformacja z punktu A do punktu B), 6) dowody i zaufanie (opinie, liczby, efekty), 7) moje cele teraz, 8) jak AI ma się do mnie zwracać i czego ma nigdy nie robić.
 
-Gdy zbierzesz odpowiedzi na wszystkie tematy, wypełnij poniższy szablon moimi słowami i zwróć mi gotową Kartę Strategiczną w czystym markdown. Czego nie podałem, zostaw jako `[do uzupełnienia]`. Na końcu dodaj 3 konkretne następne kroki.
+Gdy zbierzesz odpowiedzi na wszystkie tematy, wypełnij poniższy szablon moimi słowami i zwróć mi gotową Kartę Strategiczną w czystym markdown. Czego nie podałem, zostaw jako `[do uzupełnienia]`.
+
+Na samym końcu:
+1. Wyjaśnij mi w 2-3 zdaniach, jak zrobić z karty stały kontekst AI: jeśli pracuję w Claude Code, wklejam ją do pliku `CLAUDE.md` w folderze projektu (Claude czyta go sam na starcie); jeśli używam zwykłego chatu, wklejam ją na początku ważnych rozmów.
+2. Dodaj 3 konkretne następne kroki dla mojego biznesu.
 
 Szablon do wypełnienia:
 
 ```markdown
 # Karta Strategiczna
 
-## Cel strony
-> [jedno zdanie: co ma się stać, gdy właściwa osoba wejdzie na stronę]
+## Kim jestem i czym się zajmuję
+> [jedno-dwa zdania, kim jestem i komu pomagam]
 
-## Główna akcja (CTA)
-- Tekst przycisku:
-- Dokąd prowadzi:
-- Bezpłatna / płatna / kontaktowa / zapisowa:
+## Do kogo mówię (mój idealny klient)
+> [konkretna osoba: kim jest, w jakim jest momencie, z czym się mierzy, czego chce]
 
-## Dla kogo jest ta strona
-> [konkretna osoba: kim jest, z czym się mierzy, czego chce]
+## Jaki problem rozwiązuję
+> [co boli klienta, zanim do mnie trafi, jego słowami]
 
-## Transformacja
+## Co oferuję (moja oferta)
+- Nazwa oferty:
+- Jednozdaniowa obietnica:
+- Co klient dostaje:
+- Ceny wprost czy na rozmowie:
+
+## Jaką zmianę daję (transformacja)
 - Przed:
 - Po:
 - Co się zmienia po drodze:
 
-## Oferta na stronie
-- Nazwa oferty:
-- Jednozdaniowa obietnica:
-- Co klient dostaje:
-- Czy pokazujemy cenę:
-- Czy oferta wymaga rozmowy:
-
 ## Dowody i zaufanie
 - Opinie:
-- Liczby:
+- Liczby i efekty:
 - Case studies:
-- Logo klientów / partnerów:
-- Zdjęcia, screeny, efekty:
+- Zdjęcia, screeny:
 - Czego jeszcze brakuje:
 
-## Czego strona NIE ma robić
-- Nie ma sprzedawać:
-- Nie ma przyciągać:
-- Nie ma obiecywać:
-- Nie ma rozpraszać:
+## Moje cele teraz
+> [co jest teraz najważniejsze: klienci, produkt, lista mailowa]
+
+## Jak AI ma się do mnie zwracać i czego nigdy nie robić
+> [na Ty czy na Pan/Pani; czego AI ma nie robić w moim imieniu]
 ```
 
-Zacznij od przywitania jednym zdaniem i pierwszego pytania o cel strony.
+Zacznij od przywitania jednym zdaniem i pierwszego pytania: kim jestem i czym się zajmuję.

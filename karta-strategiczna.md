@@ -1,68 +1,62 @@
 # Karta Strategiczna
 
-Ta karta opisuje, po co istnieje konkretna strona. Nie opisuje całego biznesu.
+Ta karta opisuje Twój biznes: kim jesteś, komu pomagasz i co sprzedajesz. To fundament Twojego kontekstu AI. Wypełniasz ją raz, a potem korzysta z niej wszystko: strona internetowa, oferta, posty, maile.
 
-## Cel strony
+## Kim jestem i czym się zajmuję
 
-Jedno zdanie: co ma się stać, gdy właściwa osoba wejdzie na stronę?
+Jedno-dwa zdania. Np. „Jestem dietetyczką online, pomagam kobietom po ciąży wrócić do formy bez restrykcyjnych diet.”
 
-Przykłady:
+>
 
-- Ma zostawić kontakt na rozmowę diagnostyczną.
-- Ma zapisać się na listę oczekujących.
-- Ma kupić produkt cyfrowy.
-- Ma pobrać darmowy materiał i trafić do newslettera.
+## Do kogo mówię (mój idealny klient)
 
-Moja odpowiedź:
+Konkretna osoba: kim jest, w jakim jest momencie życia, z czym się mierzy, czego chce.
 
-> 
+>
 
-## Główna akcja (CTA)
+## Jaki problem rozwiązuję
 
-Jeden przycisk, jedna akcja. Nie pięć różnych kierunków.
+Co boli mojego klienta, zanim do mnie trafi. Jego słowami, nie żargonem.
 
-- Tekst przycisku:
-- Dokąd prowadzi:
-- Czy akcja jest bezpłatna, płatna, kontaktowa, zapisowa:
+>
 
-## Dla kogo jest ta strona
+## Co oferuję (moja oferta)
 
-Wpisz konkretną osobę, ale w wersji dla strony.
+- Nazwa oferty:
+- Jednozdaniowa obietnica:
+- Co klient dostaje:
+- Ceny podaję wprost czy na rozmowie:
 
-> 
+## Jaką zmianę daję (transformacja)
 
-## Transformacja
-
-Z jakiego punktu A do jakiego punktu B prowadzisz odbiorcę?
+Z jakiego punktu A do jakiego punktu B prowadzę klienta?
 
 - Przed:
 - Po:
 - Co się zmienia po drodze:
 
-## Oferta na stronie
-
-Co pokazujemy na tej stronie?
-
-- Nazwa oferty:
-- Jednozdaniowa obietnica:
-- Co klient dostaje:
-- Czy pokazujemy cenę:
-- Czy oferta wymaga rozmowy:
-
 ## Dowody i zaufanie
 
-Wypisz materiały, które uwiarygadniają stronę.
+Co uwiarygadnia mnie i moją ofertę. Wpisz, co masz, i czego jeszcze brakuje.
 
 - Opinie:
-- Liczby:
+- Liczby i efekty:
 - Case studies:
-- Logo klientów / partnerów:
-- Screeny, zdjęcia, efekty:
-- Jeszcze brakuje:
+- Zdjęcia, screeny:
+- Czego jeszcze brakuje:
 
-## Czego strona NIE ma robić
+## Moje cele teraz
 
-- Nie ma sprzedawać:
-- Nie ma przyciągać:
-- Nie ma obiecywać:
-- Nie ma rozpraszać:
+Co jest dla mnie najważniejsze w tym momencie: więcej klientów, sprzedaż konkretnego produktu, zbudowanie listy mailowej.
+
+>
+
+## Jak AI ma się do mnie zwracać i czego nigdy nie robić
+
+Na Ty czy na Pan/Pani. Czego AI ma nie robić: np. nie zmyślać liczb i opinii, nie obiecywać wyników w moim imieniu.
+
+>
+
+---
+
+> Gotową kartę wklej do pliku `CLAUDE.md` (jeśli pracujesz w Claude Code) albo na początek ważnej rozmowy z AI. Od tej pory AI zna Twój biznes, zanim zadasz pierwsze pytanie.
