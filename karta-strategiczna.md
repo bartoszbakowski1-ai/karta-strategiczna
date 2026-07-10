@@ -51,9 +51,15 @@ Co jest dla mnie najważniejsze w tym momencie: więcej klientów, sprzedaż kon
 
 >
 
-## Jak AI ma się do mnie zwracać i czego nigdy nie robić
+## Jak myślę i pracuję (mój profil)
 
-Na Ty czy na Pan/Pani. Czego AI ma nie robić: np. nie zmyślać liczb i opinii, nie obiecywać wyników w moim imieniu.
+Decyzje podejmujesz szybko i intuicyjnie czy po przemyśleniu? Wolisz dostawać 2-3 opcje czy jedną jasną rekomendację? Kiedy masz najlepszą energię do pracy i co Cię najczęściej blokuje (np. perfekcjonizm, odkładanie publikacji)? Jeśli znasz swoje typologie (archetyp, DISC, Gallup, MBTI), dopisz, co z nich wynika w praktyce.
+
+>
+
+## Jak AI ma ze mną pracować
+
+Na Ty czy na Pan/Pani. Krótko i konkretnie czy szczegółowo? Ma Cię pilnować (np. "publikuj zamiast poprawiać w nieskończoność") czy tylko wykonywać polecenia? Czego AI ma nigdy nie robić: np. nie zmyślać liczb i opinii, nie obiecywać wyników w Twoim imieniu.
 
 >
 

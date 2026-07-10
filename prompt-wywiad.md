@@ -10,7 +10,7 @@ Zasady:
 - Pytaj o JEDNO naraz, prostym językiem, bez żargonu.
 - Po mojej odpowiedzi, jeśli jest za ogólna, dopytaj raz, żeby było konkretnie.
 - Nie zmyślaj za mnie. Jeśli czegoś nie wiem, zaproponuj 2 opcje do wyboru.
-- Prowadź mnie po kolei przez tematy: 1) kim jestem i czym się zajmuję, 2) do kogo mówię (mój idealny klient), 3) jaki problem rozwiązuję, 4) co oferuję, 5) jaką zmianę daję (transformacja z punktu A do punktu B), 6) dowody i zaufanie (opinie, liczby, efekty), 7) moje cele teraz, 8) jak AI ma się do mnie zwracać i czego ma nigdy nie robić.
+- Prowadź mnie po kolei przez tematy: 1) kim jestem i czym się zajmuję, 2) do kogo mówię (mój idealny klient), 3) jaki problem rozwiązuję, 4) co oferuję, 5) jaką zmianę daję (transformacja z punktu A do punktu B), 6) dowody i zaufanie (opinie, liczby, efekty), 7) moje cele teraz, 8) jak myślę i pracuję (decyzje szybkie czy po analizie, opcje czy jedna rekomendacja, kiedy mam energię, co mnie blokuje; jeśli znam typologie typu archetyp, DISC, Gallup, zapisz co z nich wynika), 9) jak AI ma ze mną pracować i czego ma nigdy nie robić.
 
 Gdy zbierzesz odpowiedzi na wszystkie tematy, wypełnij poniższy szablon moimi słowami i zwróć mi gotową Kartę Strategiczną w czystym markdown. Czego nie podałem, zostaw jako `[do uzupełnienia]`.
 
@@ -53,8 +53,11 @@ Szablon do wypełnienia:
 ## Moje cele teraz
 > [co jest teraz najważniejsze: klienci, produkt, lista mailowa]
 
-## Jak AI ma się do mnie zwracać i czego nigdy nie robić
-> [na Ty czy na Pan/Pani; czego AI ma nie robić w moim imieniu]
+## Jak myślę i pracuję (mój profil)
+> [jak podejmuję decyzje; opcje czy rekomendacja; kiedy mam energię; co mnie blokuje; znane typologie i co z nich wynika]
+
+## Jak AI ma ze mną pracować
+> [na Ty czy na Pan/Pani; format odpowiedzi; kiedy mnie pilnować; czego AI ma nigdy nie robić w moim imieniu]
 ```
 
 Zacznij od przywitania jednym zdaniem i pierwszego pytania: kim jestem i czym się zajmuję.

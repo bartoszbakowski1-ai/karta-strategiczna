@@ -2,9 +2,9 @@
 
 To prezent z live **„Zbuduj własny system AI”** (Bartek Bąkowski).
 
-Karta Strategiczna to pierwszy krok do AI, które naprawdę zna Twój biznes. Jeden krótki wywiad, a AI przestaje zgadywać, kim jesteś, komu pomagasz i co sprzedajesz. Z tej jednej karty korzysta potem wszystko: strona internetowa, oferta, posty, maile, newsletter. Większość ludzi pomija ten krok, a potem dziwi się, że AI pisze ogólniki, które brzmią jak każdy inny chat.
+Karta Strategiczna to pierwszy krok do AI, które naprawdę zna Twój biznes. Jeden krótki wywiad, a AI przestaje zgadywać, kim jesteś, komu pomagasz, co sprzedajesz i jak z Tobą pracować. Z tej jednej karty korzysta potem wszystko: strona internetowa, oferta, posty, maile, newsletter. Większość ludzi pomija ten krok, a potem dziwi się, że AI pisze ogólniki, które brzmią jak każdy inny chat.
 
-## Jak użyć (3 kroki, 15 minut)
+## Jak użyć (3 kroki, ok. 20 minut)
 
 1. Otwórz plik [`prompt-wywiad.md`](prompt-wywiad.md) i skopiuj cały prompt.
 2. Wklej go do ChatGPT albo Claude.
